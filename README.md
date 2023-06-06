@@ -18,9 +18,9 @@ Here are some notable highlights of the assignments included in this repository:
 - Assignment 1: Linear Regression on Housing Price Predicton
 - Assignment 2: Linear Regression on Housing Price Predicton with PCA
 - Assignment 3: Logistic Regression with PCA on Booking Status Predicton
-- Assignment 4: Decision Tree
-- Assignment 5: Convolutional Neural Network
-- Assignment 6: Support Vector Machine
+- Assignment 4: Decision Tree and Random Forest on Booking Status Prediction
+- Assignment 5: Convolutional Neural Network on MNSIT dataset
+- Assignment 6: Support Vector Machine on Banking Dataset
 
 ## Installation
 To run the assignments locally, follow these steps:
